@@ -1,0 +1,3 @@
+insert into books(author, isbn, publisher, title, type) values ('Dan Simmons', '9788374805575', 'Orion Publishing Co', 'Hyperion','sci-fi')
+insert into books(author, isbn, publisher, title, type) values ('Dan Simmons', '9788374805841', 'Random House', 'Zagłada Hyperiona','sci-fi')
+insert into books(author, isbn, publisher, title, type) values ('Dan Simmons', '9788374809009', 'Orion Publishing Co', 'Endymion','sci-fi')
